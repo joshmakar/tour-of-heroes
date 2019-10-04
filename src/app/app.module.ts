@@ -9,22 +9,28 @@ import { HttpClientInMemoryWebApiModule } from 'angular-in-memory-web-api';
 import { HttpClientModule } from '@angular/common/http';
 import { InMemoryDataService } from './in-memory-data.service';
 import { MessagesComponent } from './messages/messages.component';
+<<<<<<< HEAD
 import { NgModule } from '@angular/core';
 
+=======
+>>>>>>> parent of ccd642e... Complete Routing Section
 
 @NgModule({
   declarations: [
     AppComponent,
     HeroesComponent,
     HeroDetailComponent,
-    MessagesComponent,
-    DashboardComponent
+    MessagesComponent
   ],
   imports: [
     BrowserModule,
+<<<<<<< HEAD
     FormsModule,
     AppRoutingModule,
     HttpClientModule
+=======
+    FormsModule
+>>>>>>> parent of ccd642e... Complete Routing Section
   ],
   providers: [],
   bootstrap: [AppComponent]

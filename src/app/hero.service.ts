@@ -21,6 +21,7 @@ export class HeroService {
     this.log('HeroService: Fetched Heroes.');
     return this.http.get<Hero[]>(this.heroesUrl);
   }
+<<<<<<< HEAD
 
   getHero(id: number): Observable<Hero> {
     this.log(`HeroService: Fetched with id: ${id}`);
@@ -31,4 +32,6 @@ export class HeroService {
   private log(message: string) {
     this.messageService.add(`HeroService: ${message}`);
   }
+=======
+>>>>>>> parent of ccd642e... Complete Routing Section
 }
