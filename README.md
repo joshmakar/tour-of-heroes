@@ -4,9 +4,9 @@ This app was built following the official Angular "Tour of Heroes" tutorial.
 
 ## Heroku Hosted Demo
 
-(Tour of Heroes Demo)[https://tour-of-heroes-jm.herokuapp.com]
+[Tour of Heroes Demo](https://tour-of-heroes-jm.herokuapp.com)
 
-(Deploying Angular on Heroku Tutorial)[https://itnext.io/how-to-deploy-angular-application-to-heroku-1d56e09c5147]
+[Deploying Angular on Heroku Tutorial](https://itnext.io/how-to-deploy-angular-application-to-heroku-1d56e09c5147)
 
 ## Information
 
